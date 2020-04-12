@@ -1,5 +1,4 @@
 # Shut-Down-PC
-
 Python code for shutting down windows PC directly with python.
 
 Tools used:
